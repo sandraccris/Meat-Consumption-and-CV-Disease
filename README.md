@@ -25,13 +25,13 @@ https://ourworldindata.org/grapher/cardiovascular-disease-death-rates-by-age
 
 1.Which type of meat was the most consumed back in 1990 and most currently in 2020?
 <br>
-2.What is the country with the highest meat consumption in 2020?
+2.What is the country with the highest meat consumption (Kg_cap) in 2020?
 <br>
 3.What percentage of beef and poultry is consumed in 2020 worldwide?
 <br>
-4.Any relationship between meat consumption and Cardiovascular disease death rates?
+4.Find if there is any relationship between meat consumption and Cardiovascular disease death rates?
 <br>
 
 **Data Visualization**
 <br>
-(Tableau)
+https://public.tableau.com/app/profile/sandra.cunha/viz/MeatConsumptionvsCardiovascularDeaths/Dashboard1
